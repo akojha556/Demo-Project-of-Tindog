@@ -200,7 +200,6 @@ p {
     position: static;
     transform: rotate(0);
     width: 60%;
-    margin-inline: 50px;
   }
   .testimonial-text{
     font-size: 2rem;
@@ -216,11 +215,6 @@ p {
   .press-logo {
     width: 20%;
     margin: 20px 20px 50px;
-  }
-
-  .download-button{
-    padding: 10px;
-    font-size: 13px;
   }
 
   /* Pricing Section  */
